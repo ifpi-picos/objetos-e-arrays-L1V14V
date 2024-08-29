@@ -1,0 +1,13 @@
+Facilita a Manutenção e Evolução: A modularização 
+permite que o código seja dividido em 
+partes menores e mais gerenciáveis. 
+Isso facilita a manutenção, pois mudanças
+ em uma parte do sistema não afetam outras 
+ partes não relacionadas. Por exemplo,
+  em um projeto de e-commerce, um módulo
+   pode ser responsável apenas pelo processamento
+    de pagamentos, enquanto outro lida com
+     o gerenciamento de inventário. Se o sistema de
+      pagamento precisa ser atualizado ou substituído, 
+      isso pode ser feito sem alterar 
+o código do gerenciamento de inventário.
