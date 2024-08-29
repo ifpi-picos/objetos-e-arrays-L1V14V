@@ -1,0 +1,6 @@
+A tendência nos últimos anos tem sido a migração
+ gradual de CommonJS para ES Modules, especialmente
+  em projetos que visam compatibilidade com navegadores
+   modernos e melhor performance. No entanto, CommonJS ainda é 
+   amplamente utilizado em 
+projetos Node.js devido à sua simplicidade e maturidade.
